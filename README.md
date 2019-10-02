@@ -1,29 +1,23 @@
-# ComputeCities
-> Solution for Preventing Huge International/National Development Projects from falling apart like Deck of Cards
+# ComputeU
+
+This project was started for preventing enormous international/national Urban planning projects from falling apart like "Deck of Cards". **Urban planning** when not done carefully, can be very fatal to development and unfortunately often happens in developing countries, for example, India. The disturbing fact is that no one really knows what is going on in cities and this project is going to tackle the problem. This project revolves around **Uvolving** Urban Planning Process (UPP)
 
 
-## Upgrade City Planning Process
+### Transport
 
-City planning is a big thing, and it's not done carefully, especially in developing countries, for example, India.
+Considering **transport**, which is by far the most quantitative and rigorously understood are of urban research and planning. It is also the area where developed nations throw off the largest amounts of money to collect data for knowing what is actually happening (despite the efforts of some companies to keep these data closely held), how people are traveling and the implications for future transport planning and land use, but developing countries often fall behind.
 
-Let's **Uvolve** the City Planning Process (CPP).
+Tackling this problem is fairly easy, by **collecting anonymized data to deeply understand and address urban transportation challenges**.
 
+#### Urban City planners can use this data to :
 
-For now, we are collecting data, listing them to allow visitors kickstart Brainstorming and Researching. 
+- Identify most <--> least congested area in their jurisdictions (scaling congestion)
+- Calibrate most-used roads (Demand modeling)
+- Validate policies and infrastructure investments
 
+This can be achieved by developing a system with GPS which can trace and log the travel routes in a distrubuted fashion. This leads us to think about the ways of implementation, which generally points to either of these solutions given below :
 
-#### References in random order :
+- Application on client's smart-device
+- System installed in-car
 
-- [Preparation of SMART CITY PLAN & PROPOSAL - Smart Cities](http://smartcities.gov.in/upload/uploadfiles/files/SCP_Template_030915.pdf)
-- [Smart city planning: A systemic approach](https://www.researchgate.net/publication/257208114_Smart_city_planning_a_systemic_approach)
-
-- [A Smart Planning for Smart City: The Concept of Smart City as an Opportunity to Re-think the Planning Models of the Contemporary City](https://www.researchgate.net/publication/300779930_A_Smart_Planning_for_Smart_City_The_Concept_of_Smart_City_as_an_Opportunity_to_Re-think_the_Planning_Models_of_the_Contemporary_City)
-- [2018 Smart City Snapshot](https://www.lga.sa.gov.au/webdata/resources/minutesAgendas/Smart%20City%20Slides%20Jan%2019%20for%20MLGG.pdf)
-- [Smart Cities in India](https://www.rvo.nl/sites/default/files/Smart%20Cities%20India.pdf)
-- [Smart Cities : Background Paper](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/246019/bis-13-1209-smart-cities-background-paper-digital.pdf)
-- [Issues Paper on Smart Cities and Infrastructure - UNCTAD](https://unctad.org/meetings/en/SessionalDocuments/CSTD_2015_Issuespaper_Theme1_SmartCitiesandInfra_en.pdf)
-- https://medium.com/@anthonymobile/smart-cities-what-do-we-need-to-know-to-plan-and-design-them-better-b6d05e736ea1
-
-
-
-
+Both has it's own list of advantages and disadvantages.
